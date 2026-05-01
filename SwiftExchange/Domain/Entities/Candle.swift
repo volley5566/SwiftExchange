@@ -8,6 +8,9 @@
 import Foundation
 
 /**
+ 
+ 蜡烛
+ K 线 candle 里面最核心就是
  open  开盘价
  high  最高价
  low   最低价
