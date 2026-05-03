@@ -4,7 +4,6 @@
 //
 //  Created by Nathan on 2026/4/28.
 //
-
 protocol GraphQLClientProtocol: Sendable {
     func fetch<QueryResult>(
         operationName: String,

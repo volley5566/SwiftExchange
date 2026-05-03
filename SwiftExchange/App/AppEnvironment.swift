@@ -4,6 +4,9 @@
 //
 //  Created by Nathan on 2026/4/28.
 //
+import Alamofire
+import Kingfisher
+import SnapKit
 
 struct AppEnvironment {
     let marketRepository: MarketRepository
